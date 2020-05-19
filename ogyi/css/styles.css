@@ -1,0 +1,163 @@
+body
+{
+	font-family: 'Montserrat';
+}
+#title
+{
+	background-color:#D63447;
+
+}
+.container-fluid
+{
+	padding:3% 15%;
+}
+h1
+{
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
+	font-size:3.5rem;
+	color:white;
+	line-height:2;
+	padding:9% 0%;
+
+	/*font-family: 'Ubuntu', sans-serif;*/
+}
+/*navigation stuff*/
+.navbar
+{
+	padding: 0 0 2.5rem 0;
+}
+.navbar-brand
+{
+	
+	font-size:1.90rem;
+	line-height: 2rem;
+}
+.nav-item
+{
+	font-size:1.50rem;
+	padding:0 18px;
+}
+.btn
+{
+	margin:10px 10px 0px 0px;
+}
+.title-image
+{
+	width:60%;
+	transform:rotate(25deg);
+	
+	position:absolute;
+	left:30%;
+}
+#features
+{
+	/*padding :3% 3%;*/
+	padding:7% 15%;
+	
+	background-color: #ef8172 ;
+	position: relative;
+}
+.colum
+{
+	text-align: center;
+}
+.coloroffontawsome
+{
+	color:#D63447;
+	margin:6% 2% 2% 2%;
+}
+.coloroffontawsome:hover{
+	color:#ff4c68;
+}
+/*section 3*/
+#testimonials
+{
+	
+  /*text-align: center;
+  margin:7% 15%;*/
+  background-color :#D63447;
+  
+  text-align:center;
+  color:white;
+
+
+}
+.testimage
+{
+	border-radius:100%;
+	width:20%;
+	height:20%;
+	margin:2% 4%;
+}
+h2
+{
+	font-size:2.5rem;
+	color:black;
+}
+/*press*/
+#press
+{
+	background-color: #D63447;
+	text-align:center;
+
+}
+.easy
+{
+	width:15%;
+	height:15%;
+	margin:20px 20px 60px ;
+}
+.carousel-item
+{
+	padding:7% 15%;
+}
+#pricing
+{
+	text-align: center;
+	padding: 5% 8% 8% 8%;
+	background-color:#ef8172 ;
+}
+h2
+{
+	color:white;
+}
+.para
+{
+	padding:4% 4%;
+	font-size: 1.85rem;
+	color:white;
+}
+.card
+{
+	background-color:#edf4f2;
+}
+#cta
+{
+	text-align: center;
+	color:white;
+	padding:7% 15%;
+	background-color:#D63447;
+}
+.buttonlast
+{
+	margin:10px 10px 10px 10px;
+	
+}
+h3
+{
+	padding:5% 15%;
+}
+
+/*footer*/
+footer
+{
+	text-align: center;
+	padding:5% 12%;
+}
+.facebook
+{
+	margin:5% 1.4%;
+	size:2rem;
+	color:black;
+}
